@@ -1,0 +1,4 @@
+[submodule "Ùnity/Assets/Text-Juicer"]
+	path = Ùnity/Assets/Text-Juicer
+	url = https://github.com/badawe/Text-Juicer.git
+	branch = master
